@@ -3,8 +3,8 @@
   <h2>Earn Money with Auto Trading</h2>
 </div>
 
-- Auto Trading with Spring boot
-- Use Kafka to handle streaming data
+- Auto Trading with `Spring boot`
+- Use `Kafka` to handle `Streaming Data`
     - No zookeeper, Kraft
 - Use Upbit Open API
     - Account
