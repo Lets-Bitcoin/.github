@@ -1,7 +1,17 @@
-<h3><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Dog%20Face.png" width="25" height="25" />  Earn Money with Auto Trading</h3>
+<h2>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Telescope.png" width="60" height="50" />
+  Data Stream Hub
+</h2>
 
----
+> **A personal sandbox for architecting distributed systems and real-time data pipelines.**
 
-- Use Upbit Open API
-- Use `Kafka` to handle `Streaming Data` (No zookeeper, Kraft)
-- Provide mailing service for better account management
+
+<br/>
+
+*Development milestones and completed modules*
+
+</div>
+
+| Project | Description | Status |
+| :--- | :--- | :---: |
+| **Kafka Bridge** | High-performance message broker integration and stream processing | `Development` |
